@@ -3,9 +3,9 @@
 
 - I'm constantly expanding my knowledge in **Data Science, Machine Learning, Omics and much more...**
 
-- I regularly write articles on [https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en](https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en)
+- My scientific papers are available on [https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en](https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en)
 
-- How to reach me: **madsondeluna@gmail.com**
+- How to reach me: **madsondeluna@gmail.com** or **madsondeluna@ufmg.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
