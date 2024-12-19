@@ -3,7 +3,7 @@
 
 - I'm constantly expanding my knowledge in **Data Science, Machine Learning, Omics and much more...**
 
-- My scientific papers are available on [https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en](https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en)
+- My scientific papers are available on **[https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en](https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en)**
 
 - How to reach me: **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br**
 
