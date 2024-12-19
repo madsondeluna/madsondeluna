@@ -15,8 +15,6 @@
 <a href="https://www.linkedin.com/in/madsonaragao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madsondeluna" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&show_icons=true&locale=en&layout=compact" alt="madsondeluna" /></p>
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
