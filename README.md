@@ -5,7 +5,7 @@
 
 - My scientific papers are available on **[https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en](https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en)**
 
-- More scientific information on: <a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>
+- More scientific information on: **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>**
 
 - How to reach me: **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br** 
 
