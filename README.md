@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Madson Aragão 👋🏼</h1>
-<h2 align="center">Bioinformatician swimming between data and biomolecules 👨🏻‍💻🧬</h2>
+<h1 align="center">Hi, I'm Madson Aragão 👨🏻‍💻</h1>
+<h3 align="center">Bioinformatician swimming between data and biomolecules</h3>
 
- I’m currently learning **Data Science, Machine Learning, Omics and much more**
+I’m currently learning **Data Science, Machine Learning, Omics Approaches and much more**
 
 I regularly write articles on [https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en](https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en)
 
