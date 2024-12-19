@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Madson Aragão 👨🏻‍💻</h1>
 <h3 align="left"><i>Just a Bioinformatician swimming among bits, bytes and biomolecules in an ocean of data</i></h3></h3>
 
-I'm constantly expanding my knowledge in **Data Science, Machine Learning, Omics and much more...**
+I'm constantly expanding my knowledge in **Data Science, Machine Learning, Omics and much more**
 
 My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**
 
