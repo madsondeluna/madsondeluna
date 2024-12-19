@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Madson Aragão 👨🏻‍💻</h1>
-<h3 align="center"><i></i>Just a Bioinformatician swimming among bits, bytes and biomolecules in an ocean of data</h3>i></h3>
+<h3 align="center"><i>Just a Bioinformatician swimming among bits, bytes and biomolecules in an ocean of data</i></h3></h3>
 
 I'm constantly expanding my knowledge in **Data Science, Machine Learning, Omics and much more...**
 
