@@ -5,7 +5,7 @@
 
 - My scientific papers are available on [https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en](https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en)
 
-- How to reach me: **madsondeluna@gmail.com** or **madsondeluna@ufmg.br**
+- How to reach me: **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
