@@ -9,6 +9,8 @@ More sci-info on **<a href="https://www.researchgate.net/profile/Madson-Luna-Ara
 
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br** 
 
+<img src="diffusion_animation_PTHbinder_v6.gif" width="200"/>
+
 ![](diffusion_animation_PTHbinder_v6.gif =250x250)
 
 <h3 align="left">Languages and Tools:</h3>
