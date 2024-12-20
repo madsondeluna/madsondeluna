@@ -10,7 +10,7 @@ More sci-info on **<a href="https://www.researchgate.net/profile/Madson-Luna-Ara
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br** 
 
 <div align="center">
-<img src="diffusion_animation_PTHbinder_v6.gif" width="400"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbio.libretexts.org%2FBookshelves%2FBiochemistry%2FFundamentals_of_Biochemistry_%2528Jakubowski_and_Flatt%2529%2F01%253A_Unit_I-_Structure_and_Catalysis%2F04%253A_The_Three-Dimensional_Structure_of_Proteins%2F4.08%253A_Protein_Folding_and_Unfolding_%2528Denaturation%2529_-_Dynamics&psig=AOvVaw2X7161V89TPt7qdxAjvgt6&ust=1734820691263000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj4keq0t4oDFQAAAAAdAAAAABA9" width="400"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
