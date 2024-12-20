@@ -9,7 +9,7 @@ More sci-info on **<a href="https://www.researchgate.net/profile/Madson-Luna-Ara
 
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br** 
 
-<div align="right">
+<div align="center">
 <img src="diffusion_animation_PTHbinder_v6.gif" width="400"/>
 </div>
 
