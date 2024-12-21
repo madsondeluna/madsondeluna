@@ -8,6 +8,7 @@ My scientific papers are available on **<a href="https://scholar.google.com.br/c
 More sci-info on **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**
 
 Reach me at **madsondeluna@gmail.com** or **madsondeluna@ufmg.br** 
+
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>**
 
 <h3 align="left">Languages and Tools:</h3>
