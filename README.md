@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Madson Aragão. Welcome! 👋🏼 👨🏻‍💻</h1>
+<h1 align="left">Hi, I'm Madson Aragão. Welcome! 👨🏻‍💻</h1>
 <h3 align="left"><i>Just a Bioinformatician swimming in an ocean of data among bits, bytes and biomolecules</i></h3></h3>
 
 I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning and much more**...
