@@ -5,7 +5,7 @@ I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning
 
 My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**
 
-More sci-info on **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**
+You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**
 
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br** 
 
