@@ -12,7 +12,7 @@ Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.lun
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>**
 
 <h3 align="left">Education:</h3>
-PhD Student in Bioinformatics @ **<a href="http://www.pgbioinfo.icb.ufmg.br/">UFMG</a>** <br>
+PhD Student in Bioinformatics ** <a href="http://www.pgbioinfo.icb.ufmg.br/">@ UFMG</a> ** <br>
 PG Student in Data Science & Analytics @ PUC-Rio <br>
 MSc in Genetics & Molecular Biology @ UFPE <br>
 BSc in Biomedical Sciences @ UFPE
