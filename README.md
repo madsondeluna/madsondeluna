@@ -3,7 +3,7 @@
 
 I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning and much more**... 
 
-My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en" target="_blank">Google Scholar</a>**
+My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**
 
 You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**
 
