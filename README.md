@@ -13,9 +13,9 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
 
 <h3 align="left">Education:</h3>
 PhD Student in Bioinformatics **<a href="http://www.pgbioinfo.icb.ufmg.br/">@ UFMG</a>** <br>
-PG Student in Data Science & Analytics @ PUC-Rio <br>
-MSc in Genetics & Molecular Biology @ UFPE <br>
-BSc in Biomedical Sciences @ UFPE
+PG Student in Data Science & Analytics **<a href="https://especializacao.ccec.puc-rio.br/">@ PUC-Rio</a>**  <br>
+MSc in Genetics & Molecular Biology  <br> 
+BSc in Biomedical Sciences **<a href="https://www.ufpe.br/biomedicina-bacharelado-cb">@ UFPE</a>**
 
 <h1>💡📊📉🛠️👨🏻‍💻🧬📑✍🏼🧮</h1>
 
