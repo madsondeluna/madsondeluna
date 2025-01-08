@@ -11,6 +11,8 @@ Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.lun
 
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/mdsnllndlnrg/">X</a>** 
 
+Here you can find links to my CVs for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>** roles
+
 <h1 align="left"></h1>
 
 <h3 align="left">Education:</h3>
@@ -20,27 +22,6 @@ MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm">
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETE-PE</strong></a>
 
-<h1 align="left"></h1>
-
-<h3 align="left">My CVs:</h3> 
-
-Here you can find links to my CVs for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>** roles
-
-<h3 align="left">Bioinformatics Skills</h3>
-
-1. **Machine Learning for Genomics**
-2. **Molecular Modeling and Simuation**
-3. **Protein Design and Chemoinformatics**
-4. **Programming and Automation**
-5. **Bioinformatics Tools Development**
-
-<h3 align="left">Product Management Skills</h3>
-
-1. **Product Lyfecile**
-2. **Data-Driven Decisions-Making**
-3. **Agile Methodologies**
-4. **User-Centered Design & Market Research**
-5. **MVP Prototyping and Implementation**
 
 <h1 align="left"></h1>
 
@@ -51,4 +32,3 @@ Here you can find links to my CVs for **<a href="https://github.com/madsondeluna
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"/>
   <img src="https://github-readme-stats.vercel.app/api?username=madsondeluna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 </div>
-
