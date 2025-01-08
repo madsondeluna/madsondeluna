@@ -35,10 +35,10 @@ Here you can find links to my CVs for **<a href="https://github.com/madsondeluna
 
 <h3 align="left">Product Management Skills</h3>
 
-1. **Product Lyfecile & Roadmap**
+1. **Product Lyfecile**
 2. **Data-Driven Decisions-Making**
 3. **Agile Methodologies**
-4. **User-Centered Design**
+4. **User-Centered Design & Market Research**
 5. **MVP Prototyping and Implementation**
 
 <h1 align="left"></h1>
