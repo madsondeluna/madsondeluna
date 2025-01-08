@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Madson Aragão!</h1>
 
-"One day I'm a **Bioinformatician** decoding genomes and proteins, the next I'm a **Data Scientist** mining hidden patterns in radon data and when chaos calls, I morph into a **Product Manager** orchestrating the madness..."
+"One day I'm a **Bioinformatician** decoding genomes and proteins, the next I'm a **Data Scientist** mining hidden patterns in random data, but when chaos calls, I morph into a **Product Manager** orchestrating the earthquake..."
 
 <h1></h1>
 
