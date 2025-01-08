@@ -25,6 +25,22 @@ BSc in Biomedical Sciences <a href="https://www.ufpe.br/biomedicina-bacharelado-
 
 Here you can find links to my CVs for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatian</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager & Design</a>**
 
+<h3 align="left">Bioinformatics Skills</h3>
+
+1. **Machine Learning for Genomics**
+2. **Molecular Modeling and Simuation**
+3. **Protein Design and Chemoinformatics**
+4. **Programming and Automation**
+5. **Bioinformatics Tools Development**
+
+<h3 align="left">Product Management Skills</h3>
+
+1. **Product Lyfecile & Roadmap**
+2. **Data-Driven Decisions-Making**
+3. **Agile Methodologies**
+4. **User-Centered Design**
+5. **MVP Prototyping and Implementation**
+
 <h1 align="left"></h1>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,5 +50,4 @@ Here you can find links to my CVs for **<a href="https://github.com/madsondeluna
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"/>
   <img src="https://github-readme-stats.vercel.app/api?username=madsondeluna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 </div>
-
 
