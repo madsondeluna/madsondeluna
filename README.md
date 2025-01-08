@@ -14,8 +14,8 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
 <h1 align="left"></h1>
 
 <h3 align="left">Education:</h3>
-PhD Student in Bioinformatics (2024 - Ongoin) <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
-PG Student in Data Science & Analytics (2024 - Ongoing) <a href="https://especializacao.ccec.puc-rio.br/"><strong>@ PUC-Rio</strong></a><br>
+PhD Student in Bioinformatics (Ongoin) <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
+PG Student in Data Science & Analytics (Ongoing) <a href="https://especializacao.ccec.puc-rio.br/"><strong>@ PUC-Rio</strong></a><br>
 MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm"><strong>@ UFPE</strong></a><br>
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETE-PE</strong></a>
