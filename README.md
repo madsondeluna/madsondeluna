@@ -23,7 +23,7 @@ BSc in Biomedical Sciences <a href="https://www.ufpe.br/biomedicina-bacharelado-
 
 <h3 align="left">My CVs:</h3> 
 
-Here you can find links to my CVs for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf)">Bioinformatian</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf)">Product Manager & Design</a>**
+Here you can find links to my CVs for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatian</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager & Design</a>**
 
 <h1 align="left"></h1>
 
