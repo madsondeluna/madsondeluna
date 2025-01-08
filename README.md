@@ -1,10 +1,6 @@
 <h1 align="left">Hi, I'm Madson Aragão!</h1>
 
-<h3>Fun-fact: One day I'm a Bioinformatician decoding genomes and proteins, the next I'm a Data Scientist (in the making) mining hidden patterns in random data, but when chaos calls, I morph into a Product Manager turning complexity into cohesive strategy and helping the team move forward...</h3>
-
-<h1></h1>
-
-I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning and much more**... 
+I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning** and **much more**... 
 
 My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**
 
