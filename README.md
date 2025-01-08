@@ -1,5 +1,7 @@
 <h1 align="left">Hi, I'm Madson Aragão!</h1>
-<h3 align="left"><i>Just a Bioinformatician swimming in an ocean of data among bits, bytes and biomolecules...</i></h3></h3>
+<h4 align="left"><i>One day I'm a Bioinformatician decoding genomes and proteins, the next I'm a Data Scientist mining hidden patterns in radon data and when chaos calls, I morph into a Product Manager orchestrating the madness...</i></h4>
+
+<h1></h1>
 
 I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning and much more**... 
 
@@ -11,7 +13,7 @@ Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.lun
 
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/mdsnllndlnrg/">X</a>** 
 
-Here you can find links to my CVs for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>** roles
+Here you can find links to my **CVs** for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>** roles
 
 <h1 align="left"></h1>
 
