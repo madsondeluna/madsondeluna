@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Madson Aragão!</h1>
 
-I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning** and **much more**... 
+Learning is my passion. I'm constantly expanding my knowledge in **Omics, Data Science, Machine Learning** and **much more**... 
 
 My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**
 
