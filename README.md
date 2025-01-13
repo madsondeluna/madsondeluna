@@ -10,7 +10,7 @@ Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.lun
 
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/mdsnllndlnrg/">X</a>** 
 
-Here you can find links to my **CVs** for **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>** roles
+Here, you can find links to my **CVs** for roles as **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>**
 
 <h1 align="left"></h1>
 
