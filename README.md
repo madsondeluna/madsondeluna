@@ -16,7 +16,7 @@ MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm">
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETE-PE</strong></a>
 
-<h3 align="left">Key Certficiations:</h3>
+<h3 align="left">Certficiations:</h3>
 Microsoft Azure Al Essentials: Workloads and Machine Learning on Azure - <a href="https://www.linkedin.com/learning/certificates/59e64cb65fc85f7da9046e276e17e959bc3e7f38c31d785d79edecd2586d3f0d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>Microsoft - 2025</strong></a><br> 
 Requirements Engineering and Agile Product Management - <a href="https://pucrio.grupoa.education/academic-services/documents/validate/ed46e6c8"><strong>PUC-Rio 2025</strong></a><br>
 Advanced Gemini for Developers - <a href="https://www.linkedin.com/learning/certificates/a259a7058366463ad138f0b25cf6827a0fd9da88cdf261ef2db475730b7c6109?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>Deep Mind / Google - 2024</strong></a><br>
