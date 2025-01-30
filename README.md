@@ -1,15 +1,10 @@
 <h1 align="left">Hi, I'm Madson Aragão!</h1> 
 
 I'm constantly expanding my knowledge in **Multi-Omics Analysis, Data Science, Machine Learning** and **much more**... 
-
 My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**
-
 You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**
-
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br** 
-
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/mdsnllndlnrg/">X</a>** 
-
 Here, you can find links to my **CVs** for roles as **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>**
 
 <h1 align="left"></h1>
