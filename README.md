@@ -26,7 +26,7 @@ Microsoft Azure Al Essentials: Workloads and Machine Learning on Azure - <a href
 Requirements Engineering and Agile Product Management - <a href="https://pucrio.grupoa.education/academic-services/documents/validate/ed46e6c8"><strong>PUC-Rio 2025</strong></a><br>
 Advanced Gemini for Developers - <a href="https://www.linkedin.com/learning/certificates/a259a7058366463ad138f0b25cf6827a0fd9da88cdf261ef2db475730b7c6109?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>Deep Mind / Google - 2024</strong></a><br>
 Career Essentials in GitHub Professional Certificate - <a href="https://www.linkedin.com/learning/certificates/4ae0dc753b7d03700014756e5fde701df9f2a5a9f4be14b6a5a6ba81a389e542?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>GitHub - 2024</strong></a><br>
-Project Management: Preventing Scope Creep - <a href="https://www.linkedin.com/learning/certificates/0d0947143e39465fecd5e509ff3504da264d683c86c225a82d4826b77a82bba8"><strong>Project Management Institute - 2024</strong></a><br>
+Project Management: Preventing Scope Creep - <a href="https://www.linkedin.com/learning/certificates/d6a8df258a0947294e9597e7b8f10b6d844779e96e6d70842795ae4e3332bb22?trk=share_certificate"><strong>Project Management Institute - 2024</strong></a><br>
 Python Programming from Basic to Advanced - <a href="https://www.udemy.com/certificate/UC-4942cbb7-1414-4344-bf7e-a8fde1001d5a/"><strong>Udemy - 2022</strong></a><br>
 Bioinformatics with Python - <a href="https://www.udemy.com/certificate/UC-33fd2573-d0f8-4be7-b075-8e86a079cd95/"><strong>Udemy - 2022</strong></a><br>
 
