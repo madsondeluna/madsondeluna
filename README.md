@@ -21,6 +21,14 @@ MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm">
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETE-PE</strong></a>
 
+<h3 align="left">Key Certficiations:</h3>**
+Microsoft Azure Al Essentials: Workloads and Machine Learning on Azure ( Microsoft - 2025)
+Requirements Engineering and Agile Product Management ( PUC-Rio 2025)
+Advanced Gemini for Developers (Deeo Mind / Google - 2024)
+Career Essentials in GitHub Professional Certificate (GitHub - 2024)
+Project Management: Preventing Scope Creep (Project Management Institute - 2024
+Python Programming from Basic to Advanced (Udemy - 2022)
+Bioinformatics with Python (Udemy - 2022)
 
 <h1 align="left"></h1>
 
