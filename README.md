@@ -5,6 +5,11 @@ My scientific papers are available on **<a href="https://scholar.google.com.br/c
 You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**  <br>
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br**  <br>
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/mdsnllndlnrg/">X</a>**  <br>
+
+<h1 align="left"></h1>
+
+<h3 align="left">CVs:</h3>
+
 Here, you can find links to my **CVs** for roles as **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>**  <br>
 
 <h1 align="left"></h1>
@@ -15,6 +20,8 @@ PG Student in Data Science & Analytics (Ongoing) <a href="https://especializacao
 MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm"><strong>@ UFPE</strong></a><br>
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETE-PE</strong></a>
+
+<h1 align="left"></h1>
 
 <h3 align="left">Certficiations:</h3>
 Career Essentials in Project Management - <a href="https://www.linkedin.com/learning/certificates/85ca53ce10941490f76e60c7526d1983e7f0ea34cdd409866eb4a03fbf5046b6"><strong>Microsoft - 2025</strong></a><br>
