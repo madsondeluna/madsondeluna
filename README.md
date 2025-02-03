@@ -17,7 +17,7 @@ BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacha
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETE-PE</strong></a>
 
 <h3 align="left">Certficiations:</h3>
-Career Essentials in Project Management - <a href="https://www.linkedin.com/learning/certificates/85ca53ce10941490f76e60c7526d1983e7f0ea34cdd409866eb4a03fbf5046b6"><strong>Microsoft- 2025</strong></a><br>
+Career Essentials in Project Management - <a href="https://www.linkedin.com/learning/certificates/85ca53ce10941490f76e60c7526d1983e7f0ea34cdd409866eb4a03fbf5046b6"><strong>Microsoft - 2025</strong></a><br>
 Data-Driven Product Management - <a href="https://www.linkedin.com/learning/certificates/5ee63bee2bb7701f59d3bda6539a9836e3ae9482fd9b910587a39f7e32367bf5?trk=share_certificate"><strong>NASBA - 2025</strong></a><br>
 Microsoft Azure Al Essentials: Workloads and Machine Learning - <a href="https://www.linkedin.com/learning/certificates/59e64cb65fc85f7da9046e276e17e959bc3e7f38c31d785d79edecd2586d3f0d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>Microsoft - 2025</strong></a><br> 
 Requirements Engineering and Agile Product Management - <a href="https://pucrio.grupoa.education/academic-services/documents/validate/ed46e6c8"><strong>PUC-Rio 2025</strong></a><br>
