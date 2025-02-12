@@ -24,6 +24,7 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 <h1 align="left"></h1>
 
 <h3 align="left">Certficiations:</h3>
+Generative AI - <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>MIT Professional Education - 2025</strong></a><br>
 Agile Project Management Professional Certificate - <a href="https://www.linkedin.com/learning/certificates/e4cfed7c56b77bdf153983332bb767951a2178cb1a5db860050ebef0ff663daa"><strong>Atlassian - 2025</strong></a><br>
 Career Essentials in Project Management - <a href="https://www.linkedin.com/learning/certificates/85ca53ce10941490f76e60c7526d1983e7f0ea34cdd409866eb4a03fbf5046b6"><strong>Microsoft - 2025</strong></a><br>
 Data-Driven Product Management - <a href="https://www.linkedin.com/learning/certificates/5ee63bee2bb7701f59d3bda6539a9836e3ae9482fd9b910587a39f7e32367bf5?trk=share_certificate"><strong>NASBA - 2025</strong></a><br>
