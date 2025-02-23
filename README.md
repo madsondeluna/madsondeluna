@@ -23,7 +23,7 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 
 <h1 align="left"></h1>
 
-<h3 align="left">Certficiations (& Ready to Roll):</h3>
+<h3 align="left"> Licenses & Certifications:</h3>
 Generative AI - <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>MIT Professional Education - 2025</strong></a><br>
 Agile Project Management Professional Certificate - <a href="https://www.linkedin.com/learning/certificates/e4cfed7c56b77bdf153983332bb767951a2178cb1a5db860050ebef0ff663daa"><strong>Atlassian - 2025</strong></a><br>
 Career Essentials in Project Management - <a href="https://www.linkedin.com/learning/certificates/85ca53ce10941490f76e60c7526d1983e7f0ea34cdd409866eb4a03fbf5046b6"><strong>Microsoft - 2025</strong></a><br>
@@ -36,6 +36,7 @@ Career Essentials in GitHub Professional Certificate - <a href="https://www.link
 Project Management - <a href="https://www.linkedin.com/learning/certificates/d6a8df258a0947294e9597e7b8f10b6d844779e96e6d70842795ae4e3332bb22?trk=share_certificate"><strong>Project Management Institute - 2024</strong></a><br>
 Python Programming from Basic to Advanced - <a href="https://www.udemy.com/certificate/UC-4942cbb7-1414-4344-bf7e-a8fde1001d5a/"><strong>Udemy - 2022</strong></a><br>
 Bioinformatics with Python - <a href="https://www.udemy.com/certificate/UC-33fd2573-d0f8-4be7-b075-8e86a079cd95/"><strong>Udemy - 2022</strong></a><br>
+(+) <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>More Achievements Here</strong></a><br>
 
 <h1 align="left"></h1>
 
