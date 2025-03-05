@@ -6,7 +6,7 @@ You can find more information about my projects and publications at **<a href="h
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madson.luna@ufpe.br**  <br>
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/mdsnllndlnrg/">X</a>**  <br>
 
-<h1 align="left"></h1>
+<h1 align="left"></h1> 
 
 <h3 align="left">CVs:</h3>
 
