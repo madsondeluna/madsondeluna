@@ -20,7 +20,7 @@ MBA Student in Software Engineering <a href="https://mbauspesalq.com/cursos/mba-
 PG Student in Data Science & Analytics <a href="https://especializacao.ccec.puc-rio.br/"><strong>@ PUC</strong></a><br>
 MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm"><strong>@ UFPE</strong></a><br>
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
-Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETE-PE</strong></a>
+Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETEPE</strong></a>
 
 <h1 align="left"></h1>
 
