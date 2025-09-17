@@ -2,9 +2,10 @@
   
 I'm constantly expanding my knowledge in **Multi-Omics Analysis, Data Science, Machine Learning** and **much more**... <br>
 My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**  <br>
-You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**  <br>
+You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>**, **<a href="https://orcid.org/0000-0001-5313-3913">ORCID</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**  <br>
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madsondeluna@usp.br** <br>
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/madsondeluna/">X</a>**  <br>
+Visit my **<a href="https://madsondeluna.github.io/">Portifolio</a>**
     
 <h1 align="left"></h1> 
 
