@@ -1,5 +1,3 @@
-<h1 align="left">Hi, I'm Madson Aragão!</h1> 
-
 > ***Hello World!***
 
 My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en">Google Scholar</a>**  <br>
