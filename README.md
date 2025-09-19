@@ -49,4 +49,5 @@ Bioinformatics with Python - <a href="https://www.udemy.com/certificate/UC-33fd2
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-> DNA is the source code, RNA is the executable script, proteins are the running applications, and the cell is the operating system.
+
+> DNA is the source code, RNA is the executable script, proteins are the running apps, and the cell is the operating system.
