@@ -4,13 +4,13 @@ My scientific papers are available on **<a href="https://scholar.google.com.br/c
 You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2">ResearchGate</a>**, **<a href="https://orcid.org/0000-0001-5313-3913">ORCID</a>** and **<a href="http://lattes.cnpq.br/0893799887546498">Lattes</a>**  <br>
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madsondeluna@usp.br** <br>
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/">Linkedin</a>** or **<a href="https://x.com/madsondeluna/">X</a>**  <br>
-Visit my **<a href="https://madsondeluna.github.io/">Portifolio</a>**
+
     
 <h1 align="left"></h1> 
 
-<h3 align="left">CVs:</h3>
+<h3 align="left">Visit my <a href="https://madsondeluna.github.io/">Portifolio</a>!</h3>
 
-Here, you can find links to my **CVs** for roles as **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">Product Manager</a>**  <br>
+> Bits, Bytes & Biomoléculas... And more...
 
 <h1 align="left"></h1>
 
