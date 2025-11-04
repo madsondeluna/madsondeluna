@@ -8,9 +8,11 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
     
 <h1 align="left"></h1> 
 
-<h3 align="left">Visit my <a href="https://madsondeluna.github.io/">Portifolio</a>!</h3>
+<h3 align="left">CVs and Portfolio</h3>
 
-> Bits, Bytes & Biomoléculas... And more...
+Visit my website: https://madsondeluna.github.io/
+
+Here, you can find links to my **CVs** for roles as **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">R&D</a>**  
 
 <h1 align="left"></h1>
 
