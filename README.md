@@ -10,7 +10,7 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
 
 <h3 align="left">CVs and Portfolio</h3>
 
-Visit my website: https://madsondeluna.github.io/
+Visit my website: **https://madsondeluna.github.io/**
 
 Here, you can find links to my **CVs** for roles as **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_BIOINFO.pdf">Bioinformatician</a>** and **<a href="https://github.com/madsondeluna/madsondeluna/blob/main/EN_CV_Madson_Aragao_PD2.pdf">R&D</a>**  
 
