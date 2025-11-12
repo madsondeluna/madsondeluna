@@ -8,7 +8,7 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
     
 <h1 align="left"></h1> 
 
-<h3 align="left">CVs and Portfolio</h3>
+<h3 align="left">CV/Portfolio</h3>
 
 Visit my website: **https://madsondeluna.github.io/** 
 
