@@ -24,6 +24,19 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 
 <h1 align="left"></h1>
 
+<h3 align="left">Featured Projects</h3>
+
+AMPidentifier - Antimicrobial Peptide Prediction Toolkit <a href="https://github.com/madsondeluna/AMPidentifier"><strong>@ GitHub</strong></a><br>
+<em>Open-source Python toolkit for predicting antimicrobial peptides using ensemble machine learning (RF, SVM, GB) with 88.45% accuracy. Features automated physicochemical descriptor extraction, modular architecture for external model integration, and CLI-based reproducible workflows. Registered at INPI (BR 51 2025 005859-4).</em><br>
+<strong>Tech Stack:</strong> Python, Scikit-learn, StandardScaler, Machine Learning, CLI<br>
+<br>
+
+GETVar - Genetic Variant Annotation Tool <a href="https://github.com/madsondeluna/getvar_mvp"><strong>@ GitHub</strong></a><br>
+<em>Web-based application for clinical genetic variant analysis and annotation. Processes VCF files through automated Snakemake workflows, integrating data from dbSNP, ClinVar, and Ensembl to provide comprehensive variant annotations including clinical significance, population frequencies, and functional consequences for diagnostic support.</em><br>
+<strong>Tech Stack:</strong> Python, Flask, Snakemake, Bootstrap, REST APIs (dbSNP, ClinVar, Ensembl)<br>
+
+<h1 align="left"></h1>
+
 <h3 align="left"> Licenses & Certifications:</h3>
 Generative AI - <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>MIT Professional Education - 2025</strong></a><br>
 Agile Project Management Professional Certificate - <a href="https://www.linkedin.com/learning/certificates/e4cfed7c56b77bdf153983332bb767951a2178cb1a5db860050ebef0ff663daa"><strong>Atlassian - 2025</strong></a><br>
