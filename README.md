@@ -38,6 +38,18 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 <em>Web-based application for clinical genetic variant analysis and annotation. Processes VCF files through automated Snakemake workflows, integrating data from dbSNP, ClinVar, and Ensembl to provide comprehensive variant annotations including clinical significance, population frequencies, and functional consequences for diagnostic support.</em><br>
 
 <strong>Tech Stack:</strong> Python, Flask, Snakemake, Bootstrap, REST APIs (dbSNP, ClinVar, Ensembl)<br>
+<br>
+
+(iii) Data Science & Analytics Specialization - Three-Module MVP Suite: <a href="https://github.com/madsondeluna/mvp_pucrio_data_analysis"><strong>@ Module I</strong></a> + <a href="https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning"><strong>@ Module II</strong></a> + <a href="https://github.com/madsondeluna/eif4e-atlas"><strong>@ Module III</strong></a><br>
+<em>Comprehensive project series developed as mandatory evaluation requirements for the Data Science and Analytics Specialization at PUC-Rio. 
+
+- Module I: Exploratory data analysis and preprocessing of the Wisconsin Breast Cancer Dataset with K-NN classification achieving 95.8% accuracy.
+- Module II: Comparative evaluation of machine learning algorithms (K-NN, Random Forest, SVM, XGBoost) for tumor classification, with Random Forest and SVM reaching 98.6% accuracy and zero false negatives.
+- Module III: Data warehouse engineering for plant eIF4E proteins featuring automated ETL pipeline, star schema design with 1,247 protein sequences across 450+ species, and interactive web interface for taxonomic, functional, and viral resistance analysis.</em><br>
+
+<strong>Tech Stack:</strong> Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows<br>
+
+<strong>Core Competencies:</strong> Data Engineering & Governance, Data Warehousing & Architecture, Machine Learning, Data Analysis & Visualization, Version Control & DevOps<br>
 
 <h1 align="left"></h1>
 
