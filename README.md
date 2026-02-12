@@ -42,20 +42,23 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 
 <h1 align="left"></h1>
 
-(iii) Data Science & Analytics Specialization - Three-Module MVP Suite (<a href="https://github.com/madsondeluna/mvp_pucrio_data_analysis"><strong>@ Module I</strong></a> + <a href="https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning"><strong>@ Module II</strong></a> + <a href="https://github.com/madsondeluna/eif4e-atlas"><strong>@ Module III</strong>)
-</a><br>
+### (iii) Data Science & Analytics Specialization - Four-Module MVP Suite
 
-<em>Comprehensive project series developed as mandatory evaluation requirements for the Data Science and Analytics Specialization at Pontifical Catholic University of Rio de Janeiro (PUC-Rio). 
+[**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas) + [**@ Module IV**](https://github.com/madsondeluna/eif4e-atlas)
 
-> <strong>Module I</strong>: Exploratory data analysis and preprocessing of the Wisconsin Breast Cancer Dataset with K-NN classification achieving 95.8% accuracy.
+_Comprehensive project series developed as mandatory evaluation requirements for the Data Science and Analytics Specialization at Pontifical Catholic University of Rio de Janeiro (PUC-Rio)._
 
-> <strong>Module II</strong>: Comparative evaluation of machine learning algorithms (K-NN, Random Forest, SVM, XGBoost) for tumor classification, with Random Forest and SVM reaching 98.6% accuracy and zero false negatives.
+> **Module I**: Exploratory data analysis and preprocessing of the Wisconsin Breast Cancer Dataset with K-NN classification achieving 95.8% accuracy.
 
-> <strong>Module III</strong>: Data warehouse engineering for plant eIF4E proteins featuring automated ETL pipeline, star schema design with 1,247 protein sequences across 450+ species, and interactive web interface for taxonomic, functional, and viral resistance analysis.</em><br>
+> **Module II**: Comparative evaluation of machine learning algorithms (K-NN, Random Forest, SVM, XGBoost) for tumor classification, with Random Forest and SVM reaching 98.6% accuracy and zero false negatives.
 
-<strong>Tech Stack:</strong> Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows<br>
+> **Module III**: Data warehouse engineering for plant eIF4E proteins featuring automated ETL pipeline, star schema design with 1,247 protein sequences across 450+ species, and interactive web interface for taxonomic, functional, and viral resistance analysis.
 
-<strong>Core Competencies:</strong> Data Engineering & Governance, Data Warehousing & Architecture, Machine Learning, Data Analysis & Visualization, Version Control & DevOps<br>
+> **Module IV**: Advanced Data Engineering for the *eIF4E Atlas*. Implementation of a robust Data Warehouse integrating proteomic and genomic data via an automated ETL pipeline (UniProtKB). The architecture features a dimensional model optimized for taxonomic and functional queries, supporting an interactive visualization interface to document molecular evolutionary patterns and identify candidates for viral resistance and genetic improvement.
+
+**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows.
+
+**Core Competencies:** Data Engineering & Governance, Data Warehousing & Architecture, Machine Learning, Data Analysis & Visualization, Version Control & DevOps.
 
 <h1 align="left"></h1>
 
