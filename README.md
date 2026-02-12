@@ -42,9 +42,9 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 
 <h1 align="left"></h1>
 
-### (iii) Data Science & Analytics Specialization - Four-Module MVP Suite
+(iii) Data Science & Analytics Specialization - Four-Module MVP Suite
 
-[**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas) + [**@ Module IV**](https://github.com/madsondeluna/eif4e-atlas)
+([**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas) + [**@ Module IV**](https://github.com/madsondeluna/eif4e-atlas))
 
 _Comprehensive project series developed as mandatory evaluation requirements for the Data Science and Analytics Specialization at Pontifical Catholic University of Rio de Janeiro (PUC-Rio)._
 
