@@ -17,7 +17,7 @@ Visit my website: **<a href="https://madsondeluna.github.io/" target="_blank" re
 <h3 align="left">Education:</h3>
 PhD Student in Bioinformatics <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
 MBA Student in Software Engineering <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software"><strong>@ USP</strong></a><br>
-Spc Student in Data Science & Analytics <a href="https://especializacao.ccec.puc-rio.br/"><strong>@ PUC</strong></a><br>
+Spc in Data Science & Analytics (2026) <a href="https://especializacao.ccec.puc-rio.br/"><strong>@ PUC</strong></a><br>
 MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm"><strong>@ UFPE</strong></a><br>
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETEPE</strong></a>
