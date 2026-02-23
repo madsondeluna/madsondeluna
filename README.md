@@ -10,8 +10,8 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
 Visit my website: **<a href="https://madsondeluna.github.io/" target="_blank" rel="noopener noreferrer">https://madsondeluna.github.io/</a>**
 
 <h3 align="left">Education:</h3>
-PhD Student in Bioinformatics <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
-MBA Student in Software Engineering <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software"><strong>@ USP</strong></a><br>
+PhD Student in Bioinformatics (Ongoing) <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
+MBA Student in Software Engineering (Ongoing) <a href="https://mbauspesalq.com/cursos/mba-em-engenharia-de-software"><strong>@ USP</strong></a><br>
 Spc in Data Science & Analytics (2026) <a href="https://especializacao.ccec.puc-rio.br/"><strong>@ PUC</strong></a><br>
 MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm"><strong>@ UFPE</strong></a><br>
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
