@@ -44,13 +44,13 @@ Bioinformatics with Python - <a href="https://www.udemy.com/certificate/UC-33fd2
 <em>Open-source Python toolkit for predicting antimicrobial peptides using ensemble machine learning (RF, SVM, GB) with 88.45% accuracy. Features automated physicochemical descriptor extraction, modular architecture for external model integration, and CLI-based reproducible workflows. Registered at INPI (BR 51 2025 005859-4).</em><br>
 <strong>Tech Stack:</strong> Python, Scikit-learn, StandardScaler, Machine Learning, CLI
 
-<br><br>
+<br>
 
 (ii) GETVar - Genetic Variant Annotation Tool <a href="https://github.com/madsondeluna/getvar_mvp"><strong>@ GitHub</strong></a><br>
 <em>Web-based application for clinical genetic variant analysis and annotation. Processes VCF files through automated Snakemake workflows, integrating data from dbSNP, ClinVar, and Ensembl to provide comprehensive variant annotations including clinical significance, population frequencies, and functional consequences for diagnostic support.</em><br>
 <strong>Tech Stack:</strong> Python, Flask, Snakemake, Bootstrap, REST APIs (dbSNP, ClinVar, Ensembl)
 
-<br><br>
+<br>
 
 (iii) Data Science & Analytics Specialization - Four-Module MVP Suite
 ([**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas) + [**@ Module IV**](https://github.com/madsondeluna/eif4e-atlas))
