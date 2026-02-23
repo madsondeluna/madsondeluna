@@ -18,7 +18,7 @@ BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacha
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETEPE</strong></a>
 
 <details>
-<summary><h3 align="left" style="display: inline-block; cursor: pointer;">Featured Projects (Click to expand)</h3></summary>
+<summary><h3 align="left" style="display: inline-block; cursor: pointer;">Featured Projects (Click to expand!)</h3></summary>
 
 <br>
 
