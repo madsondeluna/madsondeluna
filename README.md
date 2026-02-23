@@ -1,18 +1,13 @@
 > ***Hello World!***
 
-My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>**  <br>
-You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2" target="_blank" rel="noopener noreferrer">ResearchGate</a>**, **<a href="https://orcid.org/0000-0001-5313-3913" target="_blank" rel="noopener noreferrer">ORCID</a>** and **<a href="http://lattes.cnpq.br/0893799887546498" target="_blank" rel="noopener noreferrer">Lattes</a>**  <br>
+My scientific papers are available on **<a href="https://scholar.google.com.br/citations?user=GmHvOYsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>** <br>
+You can find more information about my projects and publications at **<a href="https://www.researchgate.net/profile/Madson-Luna-Aragao-2" target="_blank" rel="noopener noreferrer">ResearchGate</a>**, **<a href="https://orcid.org/0000-0001-5313-3913" target="_blank" rel="noopener noreferrer">ORCID</a>** and **<a href="http://lattes.cnpq.br/0893799887546498" target="_blank" rel="noopener noreferrer">Lattes</a>** <br>
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madsondeluna@usp.br** <br>
-You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/" target="_blank" rel="noopener noreferrer">Linkedin</a>** or **<a href="https://x.com/madsondeluna/" target="_blank" rel="noopener noreferrer">X</a>**  <br>
-
-    
-<h1 align="left"></h1> 
+You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/" target="_blank" rel="noopener noreferrer">Linkedin</a>** or **<a href="https://x.com/madsondeluna/" target="_blank" rel="noopener noreferrer">X</a>**
 
 <h3 align="left">CV/Portfolio</h3>
 
 Visit my website: **<a href="https://madsondeluna.github.io/" target="_blank" rel="noopener noreferrer">https://madsondeluna.github.io/</a>**
-
-<h1 align="left"></h1>
 
 <h3 align="left">Education:</h3>
 PhD Student in Bioinformatics <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
@@ -22,52 +17,42 @@ MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm">
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETEPE</strong></a>
 
-<h1 align="left"></h1>
-
 <details>
-<summary style="list-style: none;"><h3 align="left" style="display: inline-block; cursor: pointer;">Featured Projects (Click to expand)</h3></summary>
+<summary><h3 align="left" style="display: inline-block; cursor: pointer;">Featured Projects (Click to expand)</h3></summary>
 
 <br>
 
 (i) AMPidentifier - Antimicrobial Peptide Prediction Toolkit <a href="https://github.com/madsondeluna/AMPidentifier"><strong>@ GitHub</strong></a><br>
-
 <em>Open-source Python toolkit for predicting antimicrobial peptides using ensemble machine learning (RF, SVM, GB) with 88.45% accuracy. Features automated physicochemical descriptor extraction, modular architecture for external model integration, and CLI-based reproducible workflows. Registered at INPI (BR 51 2025 005859-4).</em><br>
-
 <strong>Tech Stack:</strong> Python, Scikit-learn, StandardScaler, Machine Learning, CLI
 
-<h1 align="left"></h1>
+<br><br>
 
 (ii) GETVar - Genetic Variant Annotation Tool <a href="https://github.com/madsondeluna/getvar_mvp"><strong>@ GitHub</strong></a><br>
-
 <em>Web-based application for clinical genetic variant analysis and annotation. Processes VCF files through automated Snakemake workflows, integrating data from dbSNP, ClinVar, and Ensembl to provide comprehensive variant annotations including clinical significance, population frequencies, and functional consequences for diagnostic support.</em><br>
+<strong>Tech Stack:</strong> Python, Flask, Snakemake, Bootstrap, REST APIs (dbSNP, ClinVar, Ensembl)
 
-<strong>Tech Stack:</strong> Python, Flask, Snakemake, Bootstrap, REST APIs (dbSNP, ClinVar, Ensembl)<br>
-
-<h1 align="left"></h1>
+<br><br>
 
 (iii) Data Science & Analytics Specialization - Four-Module MVP Suite
-
 ([**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas) + [**@ Module IV**](https://github.com/madsondeluna/eif4e-atlas))
 
 _Comprehensive project series developed as mandatory evaluation requirements for the Data Science and Analytics Specialization at Pontifical Catholic University of Rio de Janeiro (PUC-Rio)._
 
 > **Module I**: Exploratory data analysis and preprocessing of the Wisconsin Breast Cancer Dataset with K-NN classification achieving 95.8% accuracy.
-
+>
 > **Module II**: Comparative evaluation of machine learning algorithms (K-NN, Random Forest, SVM, XGBoost) for tumor classification, with Random Forest and SVM reaching 98.6% accuracy and zero false negatives.
-
+>
 > **Module III**: Data warehouse engineering for plant eIF4E proteins featuring automated ETL pipeline, star schema design with 1,247 protein sequences across 450+ species, and interactive web interface for taxonomic, functional, and viral resistance analysis.
-
+>
 > **Module IV**: Advanced Data Engineering for the *eIF4E Atlas*. Implementation of a robust Data Warehouse integrating proteomic and genomic data via an automated ETL pipeline (UniProtKB). The architecture features a dimensional model optimized for taxonomic and functional queries, supporting an interactive visualization interface to document molecular evolutionary patterns and identify candidates for viral resistance and genetic improvement.
 
-**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows.
-
+**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows.<br>
 **Core Competencies:** Data Engineering & Governance, Data Warehousing & Architecture, Machine Learning, Data Analysis & Visualization, Version Control & DevOps.
 
 </details>
 
-<h1 align="left"></h1>
-
-<h3 align="left"> Licenses & Certifications:</h3>
+<h3 align="left">Licenses & Certifications:</h3>
 Generative AI - <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>MIT Professional Education - 2025</strong></a><br>
 Agile Project Management Professional Certificate - <a href="https://www.linkedin.com/learning/certificates/e4cfed7c56b77bdf153983332bb767951a2178cb1a5db860050ebef0ff663daa"><strong>Atlassian - 2025</strong></a><br>
 Career Essentials in Project Management - <a href="https://www.linkedin.com/learning/certificates/85ca53ce10941490f76e60c7526d1983e7f0ea34cdd409866eb4a03fbf5046b6"><strong>Microsoft - 2025</strong></a><br>
@@ -80,9 +65,12 @@ Career Essentials in GitHub Professional Certificate - <a href="https://www.link
 Project Management - <a href="https://www.linkedin.com/learning/certificates/d6a8df258a0947294e9597e7b8f10b6d844779e96e6d70842795ae4e3332bb22?trk=share_certificate"><strong>Project Management Institute - 2024</strong></a><br>
 Python Programming from Basic to Advanced - <a href="https://www.udemy.com/certificate/UC-4942cbb7-1414-4344-bf7e-a8fde1001d5a/"><strong>Udemy - 2022</strong></a><br>
 Bioinformatics with Python - <a href="https://www.udemy.com/certificate/UC-33fd2573-d0f8-4be7-b075-8e86a079cd95/"><strong>Udemy - 2022</strong></a><br>
-(+) <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>More Achievements Here</strong></a><br>
+(+) <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>More Achievements Here</strong></a>
 
-<h1 align="left"></h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Languages and Tools:</h3><br>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><br>
+[//]: <div align="left">
+[//]: <img src="https://github-readme-stats.vercel.app/api?username=madsondeluna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+[//]:  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=false&order=2" height="150" alt="languages graph" />
+[//]: </div>
