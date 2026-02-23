@@ -42,18 +42,20 @@ Bioinformatics with Python - <a href="https://www.udemy.com/certificate/UC-33fd2
 
 (i) AMPidentifier - Antimicrobial Peptide Prediction Toolkit <a href="https://github.com/madsondeluna/AMPidentifier"><strong>@ GitHub</strong></a><br>
 <em>Open-source Python toolkit for predicting antimicrobial peptides using ensemble machine learning (RF, SVM, GB) with 88.45% accuracy. Features automated physicochemical descriptor extraction, modular architecture for external model integration, and CLI-based reproducible workflows. Registered at INPI (BR 51 2025 005859-4).</em><br>
+<br>
 <strong>Tech Stack:</strong> Python, Scikit-learn, StandardScaler, Machine Learning, CLI
 
 <br>
 
 (ii) GETVar - Genetic Variant Annotation Tool <a href="https://github.com/madsondeluna/getvar_mvp"><strong>@ GitHub</strong></a><br>
 <em>Web-based application for clinical genetic variant analysis and annotation. Processes VCF files through automated Snakemake workflows, integrating data from dbSNP, ClinVar, and Ensembl to provide comprehensive variant annotations including clinical significance, population frequencies, and functional consequences for diagnostic support.</em><br>
+<br>
 <strong>Tech Stack:</strong> Python, Flask, Snakemake, Bootstrap, REST APIs (dbSNP, ClinVar, Ensembl)
 
 <br>
 
 (iii) Data Science & Analytics Specialization - Four-Module MVP Suite
-([**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas) + [**@ Module IV**](https://github.com/madsondeluna/eif4e-atlas))
+([**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas))
 
 _Comprehensive project series developed as mandatory evaluation requirements for the Data Science and Analytics Specialization at Pontifical Catholic University of Rio de Janeiro (PUC-Rio)._
 
@@ -63,9 +65,8 @@ _Comprehensive project series developed as mandatory evaluation requirements for
 >
 > **Module III**: Data warehouse engineering for plant eIF4E proteins featuring automated ETL pipeline, star schema design with 1,247 protein sequences across 450+ species, and interactive web interface for taxonomic, functional, and viral resistance analysis.
 >
-> **Module IV**: Advanced Data Engineering for the *eIF4E Atlas*. Implementation of a robust Data Warehouse integrating proteomic and genomic data via an automated ETL pipeline (UniProtKB). The architecture features a dimensional model optimized for taxonomic and functional queries, supporting an interactive visualization interface to document molecular evolutionary patterns and identify candidates for viral resistance and genetic improvement.
-
-**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows.<br>
+**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows.
+>
 **Core Competencies:** Data Engineering & Governance, Data Warehousing & Architecture, Machine Learning, Data Analysis & Visualization, Version Control & DevOps.
 
 </details>
