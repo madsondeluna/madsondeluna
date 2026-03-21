@@ -5,7 +5,7 @@ You can find more information about my projects and publications at **<a href="h
 Reach me at **madsondeluna@gmail.com**, **madsondeluna@ufmg.br** or **madsondeluna@usp.br** <br>
 You can also connect with me on **<a href="https://www.linkedin.com/in/madsonaragao/" target="_blank" rel="noopener noreferrer">Linkedin</a>** or **<a href="https://x.com/madsondeluna/" target="_blank" rel="noopener noreferrer">X</a>**
 
-<h3 align="left">CV/Portfolio</h3>
+<h3 align="left">CV/Portfolio</h3>      
 
 Visit my website: **<a href="https://madsondeluna.github.io/" target="_blank" rel="noopener noreferrer">https://madsondeluna.github.io/</a>**
 
