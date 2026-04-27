@@ -66,65 +66,9 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 </tr>
 </table>
 
-<details>
-<summary><h3 align="left" style="display: inline-block; cursor: pointer;">Featured Projects</h3></summary>
+<h3 align="left">Stats:</h3>
 
-<br>
-
-(i) AMPidentifier - Antimicrobial Peptide Prediction Toolkit <a href="https://github.com/madsondeluna/AMPidentifier"><strong>@ GitHub</strong></a><br>
-<em>Open-source Python toolkit for predicting antimicrobial peptides using ensemble machine learning (RF, SVM, GB) with 88.45% accuracy. Features automated physicochemical descriptor extraction, modular architecture for external model integration, and CLI-based reproducible workflows. Registered at INPI (BR 51 2025 005859-4).</em><br>
-<br>
-<strong>Tech Stack:</strong> Python, Scikit-learn, StandardScaler, Machine Learning, CLI
-
-<br>
-
-(ii) GETVar - Genetic Variant Annotation Tool <a href="https://github.com/madsondeluna/getvar_mvp"><strong>@ GitHub</strong></a><br>
-<em>Web-based application for clinical genetic variant analysis and annotation. Processes VCF files through automated Snakemake workflows, integrating data from dbSNP, ClinVar, and Ensembl to provide comprehensive variant annotations including clinical significance, population frequencies, and functional consequences for diagnostic support.</em><br>
-<br>
-<strong>Tech Stack:</strong> Python, Flask, Snakemake, Bootstrap, REST APIs (dbSNP, ClinVar, Ensembl)
-
-<br>
-
-(iii) Data Science & Analytics Specialization - Four-Module MVP Suite
-([**@ Module I**](https://github.com/madsondeluna/mvp_pucrio_data_analysis) + [**@ Module II**](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning) + [**@ Module III**](https://github.com/madsondeluna/eif4e-atlas))
-
-_Comprehensive project series developed as mandatory evaluation requirements for the Data Science and Analytics Specialization at Pontifical Catholic University of Rio de Janeiro (PUC-Rio)._
-
-> **Module I**: Exploratory data analysis and preprocessing of the Wisconsin Breast Cancer Dataset with K-NN classification achieving 95.8% accuracy.
->
-> **Module II**: Comparative evaluation of machine learning algorithms (K-NN, Random Forest, SVM, XGBoost) for tumor classification, with Random Forest and SVM reaching 98.6% accuracy and zero false negatives.
->
-> **Module III**: Data warehouse engineering for plant eIF4E proteins featuring automated ETL pipeline, star schema design with 1,247 protein sequences across 450+ species, and interactive web interface for taxonomic, functional, and viral resistance analysis.
->
-**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL & SQLite, ETL Pipeline Development, REST API Integration, Data Modeling (Star Schema, Dimensional Design, Relational), Git/GitHub (Version Control, Branching Strategies, CI/CD), Databricks, Jupyter Notebooks & Google Colab, Data Quality Management & Validation, Data Cataloging & Lineage Tracking, Web Development (JavaScript, D3.js, Chart.js, HTML, CSS), Cloud Deployment (GitHub Pages), Reproducible Workflows.
->
-**Core Competencies:** Data Engineering & Governance, Data Warehousing & Architecture, Machine Learning, Data Analysis & Visualization, Version Control & DevOps.
-
-</details>
-
-<details>
-<summary><h3 align="left" style="display: inline-block; cursor: pointer;">Licenses & Certifications</h3></summary>
-
-<br>
-
-Generative AI - <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>MIT Professional Education - 2025</strong></a><br>
-Agile Project Management Professional Certificate - <a href="https://www.linkedin.com/learning/certificates/e4cfed7c56b77bdf153983332bb767951a2178cb1a5db860050ebef0ff663daa"><strong>Atlassian - 2025</strong></a><br>
-Career Essentials in Project Management - <a href="https://www.linkedin.com/learning/certificates/85ca53ce10941490f76e60c7526d1983e7f0ea34cdd409866eb4a03fbf5046b6"><strong>Microsoft - 2025</strong></a><br>
-Data-Driven Product Management - <a href="https://www.linkedin.com/learning/certificates/5ee63bee2bb7701f59d3bda6539a9836e3ae9482fd9b910587a39f7e32367bf5?trk=share_certificate"><strong>NASBA - 2025</strong></a><br>
-Microsoft Azure Al Essentials: Workloads and Machine Learning - <a href="https://www.linkedin.com/learning/certificates/59e64cb65fc85f7da9046e276e17e959bc3e7f38c31d785d79edecd2586d3f0d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>Microsoft - 2025</strong></a><br>
-Requirements Engineering and Agile Product Management - <a href="https://pucrio.grupoa.education/academic-services/documents/validate/ed46e6c8"><strong>PUC-Rio - 2025</strong></a><br>
-The Data Science of Healthcare, Medicine, and Public Health - <a href="https://www.linkedin.com/learning/certificates/3f2693067d4bd7737ffc58f7b959ac4881263213bd29ee5acaa6b50cf51bfb26?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BC46e7y1%2BRuKsyJUaFuDeMQ%3D%3D"><strong>LinkedIn Learning - 2025</strong></a><br>
-Advanced Gemini for Developers - <a href="https://www.linkedin.com/learning/certificates/a259a7058366463ad138f0b25cf6827a0fd9da88cdf261ef2db475730b7c6109?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>Deep Mind / Google - 2024</strong></a><br>
-Career Essentials in GitHub Professional Certificate - <a href="https://www.linkedin.com/learning/certificates/4ae0dc753b7d03700014756e5fde701df9f2a5a9f4be14b6a5a6ba81a389e542?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjV7mego4Q3auKQxnnD5TKA%3D%3D"><strong>GitHub - 2024</strong></a><br>
-Project Management - <a href="https://www.linkedin.com/learning/certificates/d6a8df258a0947294e9597e7b8f10b6d844779e96e6d70842795ae4e3332bb22?trk=share_certificate"><strong>Project Management Institute - 2024</strong></a><br>
-Python Programming from Basic to Advanced - <a href="https://www.udemy.com/certificate/UC-4942cbb7-1414-4344-bf7e-a8fde1001d5a/"><strong>Udemy - 2022</strong></a><br>
-Bioinformatics with Python - <a href="https://www.udemy.com/certificate/UC-33fd2573-d0f8-4be7-b075-8e86a079cd95/"><strong>Udemy - 2022</strong></a><br>
-(+) <a href="https://www.linkedin.com/in/madsonaragao/details/certifications/"><strong>More Achievements Here</strong></a>
-
-</details>
-
-
-[//]: <div align="left">
-[//]: <img src="https://github-readme-stats.vercel.app/api?username=madsondeluna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-[//]:  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=false&order=2" height="150" alt="languages graph" />
-[//]: </div>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=madsondeluna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madsondeluna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=swift&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
