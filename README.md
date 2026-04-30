@@ -7,7 +7,7 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
 
 <h3 align="left">CV/Portfolio</h3>      
 
-Visit my website: **<a href="https://madsondeluna.github.io/" target="_blank" rel="noopener noreferrer">https://madsondeluna.github.io/</a>**
+Visit my website: **<a href="https://madsondeluna.com" target="_blank" rel="noopener noreferrer">https://madsondeluna.com/</a>**
 
 <h3 align="left">Education:</h3>
 PhD Student in Bioinformatics (Ongoing) <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
