@@ -12,7 +12,7 @@ Visit my website: **<a href="https://madsondeluna.com" target="_blank" rel="noop
 <h3 align="left">Extracurricular:</h3>
 
 [Nextflow Ambassador](https://www.nextflow.io/our_ambassadors) (2026 – Ongoing)  **@ SEQERA** <br>
-**Member of the Review Board** (2025 – Ongoing) @ [IJBM (IF:8.5) - Elsevier](https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules)   
+**Member of the Review Board** (2025 – Ongoing) @ [IJBM (IF:8.7) - Elsevier](https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules)   
 
 <h3 align="left">Education:</h3>
 PhD Student in Bioinformatics (Ongoing) <a href="http://www.pgbioinfo.icb.ufmg.br/"><strong>@ UFMG</strong></a><br>
