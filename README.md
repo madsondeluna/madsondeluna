@@ -24,4 +24,4 @@ Tech in Software Development (2013) <a href="https://www.linkedin.com/company/et
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=py,r,c,java,bash,powershell,pytorch,tensorflow,sklearn,latex,regex,anaconda,nodejs,nestjs,fastapi,html,css,bootstrap,tailwind,react,angular,nextjs,postgres,mysql,sqlite,mongodb,aws,gcp,azure,cloudflare,linux,ubuntu,docker,git,github,githubactions,vscode,vim,eclipse,visualstudio,notion,obsidian,figma,arduino,raspberrypi,md&theme=light&perline=12" />
+<img src="https://skillicons.dev/icons?i=py,r,c,java,bash,powershell,pytorch,tensorflow,sklearn,latex,regex,anaconda,nestjs,fastapi,html,css,bootstrap,tailwind,react,nextjs,postgres,mysql,sqlite,mongodb,aws,gcp,azure,cloudflare,linux,ubuntu,docker,git,github,githubactions,vscode,vim,visualstudio,notion,obsidian,figma,arduino,raspberrypi,md&theme=light&perline=12" />
