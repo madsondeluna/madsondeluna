@@ -9,6 +9,9 @@ You can also connect with me on **<a href="https://www.linkedin.com/in/madsonara
 
 Visit my website: **<a href="https://madsondeluna.com" target="_blank" rel="noopener noreferrer">https://madsondeluna.com/</a>**
 
+Bioinformatics: **<a href="Madson-Aragao-Bioinformatics-EN.pdf">English</a>** / **<a href="Madson-Aragao-Bioinformatics-PTBR.pdf">Português</a>** <br>
+Data science: **<a href="Madson-Aragao-Data-Science-EN.pdf">English</a>** / **<a href="Madson-Aragao-Data-Science-PTBR.pdf">Português</a>**
+
 <h3 align="left">Extracurricular:</h3>
 
 [Nextflow Ambassador](https://www.nextflow.io/our_ambassadors) (2026 – Ongoing)  **@ SEQERA** <br>
