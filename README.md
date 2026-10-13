@@ -22,6 +22,8 @@ MSc in Genetics & Molecular Biology (2024) <a href="https://www.ufpe.br/ppggbm">
 BSc in Biomedical Sciences (2022) <a href="https://www.ufpe.br/biomedicina-bacharelado-cb"><strong>@ UFPE</strong></a><br>
 Tech in Software Development (2013) <a href="https://www.linkedin.com/company/ete-pe-escola-t%C3%A9cnica-estadual/?originalSubdomain=br"><strong>@ ETEPE</strong></a>
 
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="https://skillicons.dev/icons?i=py,r,c,java,bash,powershell,pytorch,tensorflow,sklearn,latex,regex,anaconda,nestjs,fastapi,html,css,bootstrap,tailwind,react,nextjs,postgres,mysql,sqlite,mongodb,aws,gcp,azure,cloudflare,linux,ubuntu,docker,git,github,githubactions,vscode,vim,visualstudio,notion,obsidian,figma,arduino,raspberrypi,md&theme=light&perline=12" />
+--!>
